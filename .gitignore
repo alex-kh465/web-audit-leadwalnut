@@ -6,12 +6,11 @@ sf_automation.log
 sf_after_crawl.log
 /debug
 sf_after_crawl.png
-app1.py
+app.py
 header.py
 .ruff_cache/
 test.ipynb
 
 tests.py
-streamlit_schema.py
 .env
 
