@@ -3,7 +3,7 @@ name = "web-audit"
 version = "0.1.0"
 description = "This application uses data from screaming frog for web audit"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.11,<=3.12"
 dependencies = [
     "aiohttp>=3.9.0",
     "beautifulsoup4>=4.12.0",
